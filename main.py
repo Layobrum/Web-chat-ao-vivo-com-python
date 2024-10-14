@@ -2,7 +2,7 @@ import flet as ft
 
 # Definindo a função principal com as variaveis iniciais
 def main(pagina):
-    texto = ft.Text("Hashzap")
+    texto = ft.Text("Bem vindo ao chat ao vivo!")
     chat = ft.Column()
     nomeUsuario = ft.TextField(label="Escreva seu nome")
 
