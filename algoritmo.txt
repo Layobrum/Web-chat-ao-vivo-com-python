@@ -1,0 +1,8 @@
+## Começando um projeto pensando no passo a passo para criar um sistema com chat ao vivo ##
+Criando o algoritmo (passo a passo):
+
+Passo 1: Anotar  as funcionalidades do sistema, como o que deve aparecer na tela no final do projeto
+Passo 2: Criar uma tela inicial, com um botão para iniciar o chat
+Passo 3: Ao clicar no botão, abrir um popup com o campo de texto para digitar o nome do usuário e um botão para entrar
+Passo 4: Ao clicar no botão, carregar a tela de chat, com um espaço para mensagem e um botão de enviar
+Passo 5: As mensagens do chat devem ser interconectadas entre os usuários, para permitir a comunicação entre eles
