@@ -15,9 +15,8 @@ O objetivo é criar uma plataforma de comunicação simples e fácil de usar, on
 - Biblioteca flet;
 
 ## Uso do programa
-- Clone o repositório: git clone https://github.com/seu-usuario/hashzap.git
-- Instale as dependências: pip install flet
-- Execute o projeto: python main.py
+- Instale as dependências: `pip install flet`
+- Execute o projeto: `python main.py`
 
 # Créditos
 
